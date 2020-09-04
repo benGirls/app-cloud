@@ -55,5 +55,10 @@
     </navigator>
   </view>
 
+  <!-- 判断此用户是否选择过 -->
+  <view class="uploader">
+      <button class="userinfo-nickname" bindtap="openidTest">用户状态判断</button>
+  </view>
+
 
 </view>
